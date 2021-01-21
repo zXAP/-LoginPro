@@ -4,4 +4,4 @@ using System.Text;
 using System.Drawing;
 using System.Threading;
 
-namespace Tessera
+namespace TesseractCo
