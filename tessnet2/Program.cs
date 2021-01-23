@@ -4,4 +4,6 @@ using System.Text;
 using System.Drawing;
 using System.Threading;
 
-namespace TesseractConsol
+namespace TesseractConsole
+{
+ 
