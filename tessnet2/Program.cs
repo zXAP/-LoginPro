@@ -6,4 +6,4 @@ using System.Threading;
 
 namespace TesseractConsole
 {
-    class Pr
+    class Program
