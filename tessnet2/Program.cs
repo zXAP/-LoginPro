@@ -8,4 +8,4 @@ namespace TesseractConsole
 {
     class Program
     {
-        st
+        static 
