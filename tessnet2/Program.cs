@@ -8,4 +8,4 @@ namespace TesseractConsole
 {
     class Program
     {
-        static vo
+        static void Ma
