@@ -8,4 +8,4 @@ namespace TesseractConsole
 {
     class Program
     {
-        static void Main(str
+        static void Main(string[]
