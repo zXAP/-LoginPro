@@ -10,4 +10,5 @@ namespace TesseractConsole
     {
         static void Main(string[] args)
         {
-            // Code usage samp
+            // Code usage sample
+    
