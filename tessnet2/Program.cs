@@ -11,4 +11,4 @@ namespace TesseractConsole
         static void Main(string[] args)
         {
             // Code usage sample
-            O
+            Ocr oc
