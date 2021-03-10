@@ -11,4 +11,5 @@ namespace TesseractConsole
         static void Main(string[] args)
         {
             // Code usage sample
-            Ocr ocr = new
+            Ocr ocr = new Ocr();
+ 
