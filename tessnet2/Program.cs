@@ -12,4 +12,4 @@ namespace TesseractConsole
         {
             // Code usage sample
             Ocr ocr = new Ocr();
-            using (Bitmap bmp = new B
+            using (Bitmap bmp = new Bitma
