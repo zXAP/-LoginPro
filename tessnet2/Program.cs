@@ -13,4 +13,5 @@ namespace TesseractConsole
             // Code usage sample
             Ocr ocr = new Ocr();
             using (Bitmap bmp = new Bitmap(@"D:\temp\ocr\b1.bmp"))
-            
+            {
+ 
