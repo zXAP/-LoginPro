@@ -14,4 +14,4 @@ namespace TesseractConsole
             Ocr ocr = new Ocr();
             using (Bitmap bmp = new Bitmap(@"D:\temp\ocr\b1.bmp"))
             {
-                tes
+                tessnet2
