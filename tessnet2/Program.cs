@@ -15,4 +15,5 @@ namespace TesseractConsole
             using (Bitmap bmp = new Bitmap(@"D:\temp\ocr\b1.bmp"))
             {
                 tessnet2.Tesseract tessocr = new tessnet2.Tesseract();
-                tessocr.Init(null, "eng", fals
+                tessocr.Init(null, "eng", false);
+  
