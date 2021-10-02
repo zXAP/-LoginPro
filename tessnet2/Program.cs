@@ -16,4 +16,4 @@ namespace TesseractConsole
             {
                 tessnet2.Tesseract tessocr = new tessnet2.Tesseract();
                 tessocr.Init(null, "eng", false);
-                tessocr.GetThresholdedImage(bmp, Rectangle.Em
+                tessocr.GetThresholdedImage(bmp, Rectangle.Empty
