@@ -19,4 +19,4 @@ namespace TesseractConsole
                 tessocr.GetThresholdedImage(bmp, Rectangle.Empty).Save("c:\\temp\\" + Guid.NewGuid().ToString() + ".bmp");
                 // Tessdata directory must be in the directory than this exe
                 Console.WriteLine("Multithread version");
-                ocr.DoO
+                ocr.DoOCRMu
