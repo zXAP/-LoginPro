@@ -20,4 +20,4 @@ namespace TesseractConsole
                 // Tessdata directory must be in the directory than this exe
                 Console.WriteLine("Multithread version");
                 ocr.DoOCRMultiThred(bmp, "eng");
-                Consol
+                Console.Write
