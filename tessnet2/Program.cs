@@ -21,4 +21,4 @@ namespace TesseractConsole
                 Console.WriteLine("Multithread version");
                 ocr.DoOCRMultiThred(bmp, "eng");
                 Console.WriteLine("Normal version");
-                ocr.DoOCRNormal(bmp, "eng"
+                ocr.DoOCRNormal(bmp, "eng");
