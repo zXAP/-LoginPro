@@ -23,4 +23,5 @@ namespace TesseractConsole
                 Console.WriteLine("Normal version");
                 ocr.DoOCRNormal(bmp, "eng");
             }
-        
+        }
+   
