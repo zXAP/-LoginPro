@@ -22,4 +22,4 @@ namespace TesseractConsole
                 ocr.DoOCRMultiThred(bmp, "eng");
                 Console.WriteLine("Normal version");
                 ocr.DoOCRNormal(bmp, "eng");
- 
+     
