@@ -24,4 +24,4 @@ namespace TesseractConsole
                 ocr.DoOCRNormal(bmp, "eng");
             }
         }
-   
+    }
