@@ -26,4 +26,4 @@ namespace TesseractConsole
         }
     }
 
-    pu
+    public
