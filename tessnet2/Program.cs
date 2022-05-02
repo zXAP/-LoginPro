@@ -26,4 +26,4 @@ namespace TesseractConsole
         }
     }
 
-    public class 
+    public class Ocr
