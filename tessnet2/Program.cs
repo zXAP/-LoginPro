@@ -28,4 +28,4 @@ namespace TesseractConsole
 
     public class Ocr
     {
-    
+        p
