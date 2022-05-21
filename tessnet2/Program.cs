@@ -28,4 +28,4 @@ namespace TesseractConsole
 
     public class Ocr
     {
-        public void DumpResult(List<tessnet2
+        public void DumpResult(List<tessnet2.Wor
