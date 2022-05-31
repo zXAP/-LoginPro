@@ -29,4 +29,4 @@ namespace TesseractConsole
     public class Ocr
     {
         public void DumpResult(List<tessnet2.Word> result)
-  
+      
