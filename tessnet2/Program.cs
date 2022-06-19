@@ -30,4 +30,4 @@ namespace TesseractConsole
     {
         public void DumpResult(List<tessnet2.Word> result)
         {
-            foreach (tessn
+            foreach (tessnet2.W
