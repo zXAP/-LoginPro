@@ -31,4 +31,4 @@ namespace TesseractConsole
         public void DumpResult(List<tessnet2.Word> result)
         {
             foreach (tessnet2.Word word in result)
-                Console.WriteLine("{0} : {1}", word.Confidence, w
+                Console.WriteLine("{0} : {1}", word.Confidence, word.Tex
