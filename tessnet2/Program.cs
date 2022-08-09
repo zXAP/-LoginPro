@@ -32,4 +32,4 @@ namespace TesseractConsole
         {
             foreach (tessnet2.Word word in result)
                 Console.WriteLine("{0} : {1}", word.Confidence, word.Text);
-       
+        }
