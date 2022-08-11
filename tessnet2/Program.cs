@@ -34,4 +34,4 @@ namespace TesseractConsole
                 Console.WriteLine("{0} : {1}", word.Confidence, word.Text);
         }
 
-        p
+        public Lis
