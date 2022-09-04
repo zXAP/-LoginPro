@@ -35,4 +35,4 @@ namespace TesseractConsole
         }
 
         public List<tessnet2.Word> DoOCRNormal(Bitmap image, string lang)
-     
+       
