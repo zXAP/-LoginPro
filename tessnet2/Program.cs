@@ -34,4 +34,4 @@ namespace TesseractConsole
                 Console.WriteLine("{0} : {1}", word.Confidence, word.Text);
         }
 
-        public List<tessnet2.Word> DoOCRNormal(Bitmap image, string la
+        public List<tessnet2.Word> DoOCRNormal(Bitmap image, string lang)
