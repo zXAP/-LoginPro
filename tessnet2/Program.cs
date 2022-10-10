@@ -36,4 +36,5 @@ namespace TesseractConsole
 
         public List<tessnet2.Word> DoOCRNormal(Bitmap image, string lang)
         {
-            tessnet2.Tesseract ocr = new tessnet2.Tesseract()
+            tessnet2.Tesseract ocr = new tessnet2.Tesseract();
+ 
