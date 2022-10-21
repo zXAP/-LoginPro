@@ -38,4 +38,4 @@ namespace TesseractConsole
         {
             tessnet2.Tesseract ocr = new tessnet2.Tesseract();
             ocr.Init(null, lang, false);
-            List<tessnet2.Word> result
+            List<tessnet2.Word> result = ocr
