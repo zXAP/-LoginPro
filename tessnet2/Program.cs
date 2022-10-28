@@ -39,4 +39,5 @@ namespace TesseractConsole
             tessnet2.Tesseract ocr = new tessnet2.Tesseract();
             ocr.Init(null, lang, false);
             List<tessnet2.Word> result = ocr.DoOCR(image, Rectangle.Empty);
-            DumpResult(result
+            DumpResult(result);
+   
