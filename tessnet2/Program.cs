@@ -43,4 +43,4 @@ namespace TesseractConsole
             return result;
         }
 
-        ManualResetEvent m
+        ManualResetEvent m_eve
