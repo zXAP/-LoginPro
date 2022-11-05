@@ -45,4 +45,4 @@ namespace TesseractConsole
 
         ManualResetEvent m_event;
 
-        public void DoOC
+        public void DoOCRMul
