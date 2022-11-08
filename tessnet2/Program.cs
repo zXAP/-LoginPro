@@ -45,4 +45,5 @@ namespace TesseractConsole
 
         ManualResetEvent m_event;
 
-        public void DoOCRMultiThred(Bitmap image, string lang
+        public void DoOCRMultiThred(Bitmap image, string lang)
+   
