@@ -47,4 +47,4 @@ namespace TesseractConsole
 
         public void DoOCRMultiThred(Bitmap image, string lang)
         {
-          
+            te
