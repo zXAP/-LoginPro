@@ -47,4 +47,4 @@ namespace TesseractConsole
 
         public void DoOCRMultiThred(Bitmap image, string lang)
         {
-            tessnet2.Tessera
+            tessnet2.Tesseract 
