@@ -48,4 +48,4 @@ namespace TesseractConsole
         public void DoOCRMultiThred(Bitmap image, string lang)
         {
             tessnet2.Tesseract ocr = new tessnet2.Tesseract();
-            ocr.Init(null, lang, 
+            ocr.Init(null, lang, false
