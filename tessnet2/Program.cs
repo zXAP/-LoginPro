@@ -49,4 +49,4 @@ namespace TesseractConsole
         {
             tessnet2.Tesseract ocr = new tessnet2.Tesseract();
             ocr.Init(null, lang, false);
-        
+           
