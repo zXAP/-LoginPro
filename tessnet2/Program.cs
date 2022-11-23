@@ -49,4 +49,4 @@ namespace TesseractConsole
         {
             tessnet2.Tesseract ocr = new tessnet2.Tesseract();
             ocr.Init(null, lang, false);
-            // If the OcrDone delegate is not null th
+            // If the OcrDone delegate is not null then t
