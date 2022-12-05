@@ -51,4 +51,4 @@ namespace TesseractConsole
             ocr.Init(null, lang, false);
             // If the OcrDone delegate is not null then this'll be the multithreaded version
             ocr.OcrDone = new tessnet2.Tesseract.OcrDoneHandler(Finished);
-            // For event to work, must
+            // For event to work, must use 
