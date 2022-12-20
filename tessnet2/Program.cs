@@ -53,4 +53,4 @@ namespace TesseractConsole
             ocr.OcrDone = new tessnet2.Tesseract.OcrDoneHandler(Finished);
             // For event to work, must use the multithreaded version
             ocr.ProgressEvent += new tessnet2.Tesseract.ProgressHandler(ocr_ProgressEvent);
-            m_event = new Ma
+            m_event = new Manual
