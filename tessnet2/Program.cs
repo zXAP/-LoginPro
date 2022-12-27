@@ -55,3 +55,4 @@ namespace TesseractConsole
             ocr.ProgressEvent += new tessnet2.Tesseract.ProgressHandler(ocr_ProgressEvent);
             m_event = new ManualResetEvent(false);
             ocr.DoOCR(image, Rectangle.Empty);
+  
