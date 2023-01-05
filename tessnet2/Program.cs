@@ -56,4 +56,4 @@ namespace TesseractConsole
             m_event = new ManualResetEvent(false);
             ocr.DoOCR(image, Rectangle.Empty);
             // Wait here it's finished
-            m_event.Wai
+            m_event.WaitOn
