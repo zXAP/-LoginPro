@@ -58,3 +58,5 @@ namespace TesseractConsole
             // Wait here it's finished
             m_event.WaitOne();
         }
+
+  
