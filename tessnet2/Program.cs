@@ -59,4 +59,4 @@ namespace TesseractConsole
             m_event.WaitOne();
         }
 
-       
+        publ
