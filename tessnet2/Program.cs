@@ -59,4 +59,4 @@ namespace TesseractConsole
             m_event.WaitOne();
         }
 
-        public void Finished(List<tessnet2.Word> re
+        public void Finished(List<tessnet2.Word> result
