@@ -62,3 +62,4 @@ namespace TesseractConsole
         public void Finished(List<tessnet2.Word> result)
         {
             DumpResult(result);
+     
