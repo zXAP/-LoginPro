@@ -63,4 +63,4 @@ namespace TesseractConsole
         {
             DumpResult(result);
             m_event.Set();
-  
+        
