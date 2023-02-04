@@ -65,4 +65,4 @@ namespace TesseractConsole
             m_event.Set();
         }
 
-        void  ocr_ProgressEvent(int 
+        void  ocr_ProgressEvent(int pe
