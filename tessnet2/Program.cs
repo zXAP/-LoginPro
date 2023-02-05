@@ -65,4 +65,4 @@ namespace TesseractConsole
             m_event.Set();
         }
 
-        void  ocr_ProgressEvent(int pe
+        void  ocr_ProgressEvent(int percent
