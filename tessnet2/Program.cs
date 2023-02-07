@@ -67,4 +67,4 @@ namespace TesseractConsole
 
         void  ocr_ProgressEvent(int percent)
         {
- 	      
+ 	        Conso
