@@ -67,4 +67,4 @@ namespace TesseractConsole
 
         void  ocr_ProgressEvent(int percent)
         {
- 	        Console.WriteLine("{0}% progression"
+ 	        Console.WriteLine("{0}% progression", p
