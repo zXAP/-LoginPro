@@ -69,4 +69,6 @@ namespace TesseractConsole
         {
  	        Console.WriteLine("{0}% progression", percent);
         }
-   
+    }
+
+}
