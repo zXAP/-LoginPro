@@ -1,1 +1,1 @@
-You need .NET 2.0 and
+You need .NET 2.0 and C++ r
